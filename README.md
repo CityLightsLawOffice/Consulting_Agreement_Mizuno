@@ -1,0 +1,2 @@
+# Consulting_Agreement_mizuno
+弁護士水野祐の顧問契約書のひな型です。
